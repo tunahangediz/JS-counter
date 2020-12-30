@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    height: 80vw;
+    align-items: center;
+    justify-content: center;
+}
+main{
+    background-color: aqua;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+}
